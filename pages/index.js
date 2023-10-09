@@ -37,7 +37,7 @@ const Home = () => {
         initial='hidden'
         animate='show'
         exit='hidden'
-        className="max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-4 xl:mb-4"
+        className="max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-0 xl:mb-4"
         >
 Conference of Civil Society was Incorporated as Civil Society Centre for Leadership and Followership by the Laws of the Federal Republic of Nigeria. It is an Umbrella Forum of Civil Societies working for Peace, Security, Defence, Good Governance, Transparency, Anti-Corruption, Education, Social and Economic Development.        </motion.p>
         {/* btn */}
