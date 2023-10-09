@@ -6,7 +6,7 @@ function index() {
   return (
     <div className="App">
       <div className="topContent">
-        <h2>CSO</h2>
+        <div><h2>CSO</h2></div>
         <p className="text-sm px-3">Linking Civil Societies for collective actions and strategic engagements, as well as enhancing their thematic interventions. </p>
       </div>
       {/* Carousel */}
