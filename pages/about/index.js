@@ -126,7 +126,7 @@ const About = () => {
       <p className="mb-0 text-sm text-center text-white-900 dark:text-white-900 sm:mb-0">
    We are located at 9 Yola Street,Area 7, Garki Abuja-Nigeria.+2347034797022.
   </p>
-        <p className="max-w-[500px] mx-auto xl:mx-0 mb-6 xl:mb-12 px-2 xl:px-0">
+        <p className="max-w-[500px] mx-auto xl:mx-0 mb-2 xl:mb-12 px-2 xl:px-0">
         For over 10 years, we have been on a journey of Civic Engagement and Public Education, and have become a formidable Voice and Conscience of the Citizenry .
         </p>
         {/* counters */}
