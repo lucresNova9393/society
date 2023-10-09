@@ -21,7 +21,7 @@ const Header = () => {
           alt=""
           priority={true} 
           />
-           <div> <p class="mb-0 text-sm text-center text-white-900 dark:text-white-900 sm:mb-0">
+           <div className="text-sm"> <p class="mb-0 text-sm text-center text-white-900 dark:text-white-900 sm:mb-0">
   9 Yola Street,Area 7, Garki Abuja-Nigeria.+2347034797022.
   </p></div>
         </Link>
